@@ -1,0 +1,11 @@
+.goal-title {
+    margin: 20px;
+    font-size: 30px;
+}
+
+.goal-list {
+    /*flex-direction: column;*/
+    /*justify-content: flex-start;*/
+    /*align-items: flex-start;*/
+    /*left: 20%;*/
+}
